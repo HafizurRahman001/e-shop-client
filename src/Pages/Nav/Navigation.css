@@ -1,0 +1,6 @@
+.nav-list ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: bold;
+  margin: 5px 10px;
+}
